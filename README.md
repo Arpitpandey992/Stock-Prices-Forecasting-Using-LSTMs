@@ -6,7 +6,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/try)
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U8eycLCa4OwAihw5NXFhK_WTJUADT2Ne?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U8eycLCa4OwAihw5NXFhK_WTJUADT2Ne?usp=sharing)
 
 # Stock-Prices-Forecasting-Using-LSTMs
 Industry Oriented Project, IIT Roorkee, Electrical Engineering Department
