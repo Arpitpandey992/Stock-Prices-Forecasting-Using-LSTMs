@@ -1,4 +1,4 @@
-<p align="center"><img width="60%" src="ReadmeData/Keras.png" /></p>
+<p align="center"><img width="30%" src="ReadmeData/Keras.png" /></p>
 
 --------------------------------------------------------------------------------
 [![Python}](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
